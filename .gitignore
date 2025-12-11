@@ -1,2 +1,15 @@
+# Node
 node_modules/
 .env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# VSCode
+.vscode/
